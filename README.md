@@ -1,3 +1,5 @@
+![Banner photo](https://github.com/collindching/Olist-Customer-Churn/blob/master/ecommerce%20banner.jpg)
+
 # Olist-Customer-Churn
 
 Customer churn problems can be parsed in to contractual or non-contractual. When business is contractual, you have a supervised binary classification problem. In the non-contractual setting, you have an unobserved probabilistic problem. 
